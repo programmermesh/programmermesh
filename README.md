@@ -15,6 +15,7 @@
      <li>Academic City College (Ghana) -  Information Technology Lecturer</li>
 </ul>
 <br>
+<img align="left" alt="coding" width="300" src="https://www.enago.com/publication-support-services/images/home-banner-img.png"> 
 
 - 📝 I am a research scholar [View](shorturl.at/lqA56)
 
