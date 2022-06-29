@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meshach Joseph</h1>
 <h3 align="center">A skilled software developer with proven expertise in using new tools and technical developments to drive improvements throughout an entire software development Lifecycle. Having extensive industry and full life cycle experience in Software Development Lifecycle, along with exceptional analytical, design and problem-solving capabilities. Excellent communication skills and able to work alongside support teams.</h3>
 
-<img align="left" alt="coding" width="350" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="left" alt="coding" width="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <br><br>
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height="100" src="https://github-profile-trophy.vercel.app/?username=programmermesh" alt="programmermesh" /></a> </p>
 <br> <br><br>
