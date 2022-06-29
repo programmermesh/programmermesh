@@ -15,8 +15,9 @@
      <li>Academic City College (Ghana) -  Information Technology Lecturer</li>
 </ul>
 <br>
+<a href="shorturl.at/lqA56">
 <img align="left" alt="coding" width="300" src="https://www.enago.com/publication-support-services/images/home-banner-img.png"> 
-
+</a>
 - 📝 I am a research scholar [View](shorturl.at/lqA56)
 
 - 💬 Ask me about **Angular, TypeScript, JavaScript, ReactJs, .Net Core webAPI, NodeJs, NestJs**
