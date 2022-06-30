@@ -14,11 +14,11 @@
      <li>RusselSmith (Nigeria) -  Senior Frontend developer/ SharePoint Developer (Angular, React, SharePoint)</li>
      <li>Academic City College (Ghana) -  Information Technology Lecturer</li>
 </ul>
+
 <br>
-<a href="shorturl.at/lqA56">
-<img align="left" alt="coding" width="300" src="https://www.enago.com/publication-support-services/images/home-banner-img.png"> 
-</a>
-- 📝 I am a research scholar [View](shorturl.at/lqA56)
+<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4cSpYoInihUAxWn35FUrH3JhGfP0AHd2d2Kw6e1RX27zucQWgoq1catvTQPRyrM9WJPKUHpXULx8FgCtwz9EuQ-MtvVA&user=uM8e9TIAAAAJ"><img width="300" align="left" src="https://www.enago.com/publication-support-services/images/home-banner-img.png" /></a>
+<br>
+- 📝 I am a research scholar 
 
 - 💬 Ask me about **Angular, TypeScript, JavaScript, ReactJs, .Net Core webAPI, NodeJs, NestJs**
 
