@@ -16,7 +16,7 @@
 </ul>
 
 <br>
-<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4cSpYoInihUAxWn35FUrH3JhGfP0AHd2d2Kw6e1RX27zucQWgoq1catvTQPRyrM9WJPKUHpXULx8FgCtwz9EuQ-MtvVA&user=uM8e9TIAAAAJ"><img width="300" align="left" src="https://www.enago.com/publication-support-services/images/home-banner-img.png" /></a>
+<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AJsN-F4cSpYoInihUAxWn35FUrH3JhGfP0AHd2d2Kw6e1RX27zucQWgoq1catvTQPRyrM9WJPKUHpXULx8FgCtwz9EuQ-MtvVA&user=uM8e9TIAAAAJ" target="_blank"><img width="300" align="left" src="https://www.enago.com/publication-support-services/images/home-banner-img.png" /></a>
 <br>
 - 📝 I am a research scholar 
 
