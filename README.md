@@ -7,6 +7,7 @@
 <br> <br><br>
 <h1> 🔭 Work Experience </h1> 
 <ul>
+     <li>Fast Credit Ltd (Nigeria) -  Chief Fintech & Innovation Officer</li>
      <li>Sterling Bank (Nigeria) -  Team Lead, Software Development</li>
      <li>First City Monument Bank (Nigeria) -  Senior Frontend Developer (Angular, TypeScript, JavaScript)</li>
      <li>Capiter (Egypt) - Senior Frontend Engineer (Angular)</li>
